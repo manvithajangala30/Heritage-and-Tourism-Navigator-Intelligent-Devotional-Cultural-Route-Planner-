@@ -1,0 +1,77 @@
+Problem Statement
+Lack of integrated platforms for devotional travel planning combined with cultural storytelling.
+Simple Architecture Diagram
++------------------+
+|      User        |
+| (Web Browser)    |
++--------+---------+
+         |
+         v
++------------------+
+|   Frontend UI    |
+| (HTML, CSS, JS)  |
++--------+---------+
+         |
+         v
++---------------------------+
+| Firebase Authentication   |
+| (Login / Register)        |
++--------+------------------+
+         |
+         v
++---------------------------+
+| Firebase Database         |
+| (User Data, Routes,       |
+|  Heritage Content)        |
++--------+------------------+
+         |
+         v
++---------------------------+
+| Route Planning Logic      |
+| (Optimized Travel Paths)  |
++--------+------------------+
+         |
+         v
++---------------------------+
+| Maps / Location Services  |
+| (Interactive Navigation)  |
++---------------------------+
+Tech stack
+Frontend
+HTML – Structure of web pages
+CSS – Styling and responsive design
+JavaScript – User interaction and dynamic content
+Backend & Services
+Firebase Authentication – Secure user login and registration
+Firebase Realtime Database / Firestore – Store user data, routes, and heritage content
+ Maps & Routing
+Map Services (Google Maps / OpenStreetMap) – Location display and route visualization
+Custom Route Logic – Optimized devotional and heritage travel paths
+Setup Instructions:
+Clone the GitHub repository and open the project folder in Visual Studio Code.
+Configure Firebase by adding your authentication and database keys.
+Open index.html using the Live Server extension.
+Access the application in a web browser and start exploring heritage routes.
+AI Tools Used
+ChatGPT,LOVABLE was used to assist in content generation, documentation, and intelligent route-planning logic design.
+Prompt Strategy Summary
+The prompt strategy was carefully designed to support content creation, 
+system planning, and user experience enhancement. Structured prompts 
+were used to generate accurate historical and cultural descriptions for 
+heritage and devotional locations while ensuring clarity and cultural 
+sensitivity. Additional prompts helped in conceptualizing intelligent route 
+planning logic by considering factors such as distance, travel sequence, and 
+user preferences.
+iterative prompt refinement was applied to improve UI text, accessibility 
+guidelines, and overall presentation quality. The strategy focused on 
+producing concise, reliable, and user-friendly outputs that align with the 
+project’s goal of delivering an engaging and educational heritage tourism 
+experience.
+Build & Reproducibility Instructions
+The project can be easily reproduced on any system with a modern web 
+browser. Clone the GitHub repository and open the project folder in Visual 
+Studio Code. Configure Firebase by adding the required authentication and 
+database keys in the configuration file. Run the application by opening 
+index.html using the Live Server extension or any web browser. No paid APIs 
+or complex backend setup are required, ensuring consistent and 
+reproducible builds across different environments.
