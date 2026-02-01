@@ -1,0 +1,25 @@
+Prompts were designed to generate authentic and informative heritage
+content that highlights the historical, architectural, and cultural significance 
+of South Indian heritage sites. Structured prompts guided the creation of 
+clear narratives, timelines, and key facts while maintaining cultural sensitivity 
+and accuracy. Additional prompts were used to conceptualize intelligent 
+heritage route planning by considering location proximity, travel efficiency
+and thematic relevance. The prompt-driven approach ensured consistent 
+storytelling, improved user engagement, and supported the development of a 
+culturally enriched and educational heritage tourism platform.
+
+Add voice output to the website using browser-based Text-to-Speech.
+Include a speaker icon button.
+When clicked, the website should read the displayed content aloud using a
+clear, natural voice
+The feature should support English and be accessible for elderly users.
+
+Implement a multilingual language selection feature for the website.
+Provide language options for English, Hindi, and Telugu.
+When a user selects a language, all visible text content on the website 
+should dynamically update and display in the chosen language without 
+reloading the page.
+The language switch should be simple, clearly visible, and easy to use, 
+especially for elderly users
+Ensure consistent translations across navigation, forms, temple descriptions
+and informational content while maintaining a clean and accessible UI.
